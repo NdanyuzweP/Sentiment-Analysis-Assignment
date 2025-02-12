@@ -1,4 +1,4 @@
-Sentiment Analysis Assignment
+##**Sentiment Analysis Assignment**
 📌 Overview
 This project performs sentiment analysis on IMDB movie reviews using both traditional machine learning and deep learning techniques. We implemented and compared Logistic Regression and LSTM models to classify reviews as positive or negative.
 
